@@ -18,6 +18,10 @@ const reverse = (str) => {
     return reversed;
     */
    
+    /**
+     * Using reduce array helper method
+     * return str.split('').reduce((rev, char) => char + rev, '');
+     */
 }
 
 const string = process.argv[2];
