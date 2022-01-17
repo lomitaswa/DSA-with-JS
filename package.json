@@ -1,0 +1,19 @@
+{
+  "name": "dsa-with-js",
+  "version": "1.0.0",
+  "description": "DSA using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lomitaswa/DSA-with-JS.git"
+  },
+  "author": "Lomitaswa Suna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lomitaswa/DSA-with-JS/issues"
+  },
+  "homepage": "https://github.com/lomitaswa/DSA-with-JS#readme"
+}
